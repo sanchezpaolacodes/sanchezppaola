@@ -21,7 +21,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
-  <img align="right" height="150" style="border-radius:50px" src="https://cdn-icons-png.flaticon.com/512/2933/2933528.png"/>
+  <img align="right" height="150" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/896762988705501264/896763875452661791/image0.gif"/>
  </div> 
   
   ##
