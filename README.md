@@ -5,8 +5,16 @@
 - ✔️ Minha primeira graduada foi em Design de Produto pela Universidade Cesumar...
 - ✔️ Em seguida me formei em Licenciatura de computação pelo Claretiano e também em Ciencias da Computação pela Etep
 - ✔️ Tenho algumas Pós Graduações como, por exemplo, Gestao de projetos de TI, Desenvolvimento de aplicações Web, Sistemas de informação, MBA em Engenharia de Software e em Banco de Dados...
-- 📫 Meu e-mail é: paolasanchez.engsoftware@gmail.com ...
-- 😄 Pronouns: ela/dela ...
+-  📫 Entre em contato comigo pelos meios abaixo:
+  <div> 
+  <a href="https://instagram.com/poa_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:paolasanchez.engsoftware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sanchezppaola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+![Snake animation](https://github.com/sanchezppaola/sanchezppaola/blob/output/github-contribution-grid-snake.svg)
+  
+  
+ </div
 
  <div align="center">
   <a href="https://github.com/sanchezppaola">
@@ -28,16 +36,6 @@
   
   ##
   
-  <div> 
-  <a href="https://instagram.com/poa_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/Paola Sanchez#6879" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:paola@itout.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sanchezppaola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://www.facebook.com/profile.php?id=100001308096790" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-    
-![Snake animation](https://github.com/sanchezppaola/sanchezppaola/blob/output/github-contribution-grid-snake.svg)
   
-  
- </div
   
   
