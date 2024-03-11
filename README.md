@@ -22,7 +22,8 @@ Meus contatos estão abaixo:
   <a href = "mailto:paolasanchez.engsoftware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sanchezppaola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-**Esse GitHub é voltado para as minhas aulas, então ele deve ficar meio bagunçado**
+
+**OBS: Esse GitHub é voltado para as minhas aulas, então ele deve ficar meio bagunçado**
     
 ![Snake animation](https://github.com/sanchezppaola/sanchezppaola/blob/output/github-contribution-grid-snake.svg)
   
