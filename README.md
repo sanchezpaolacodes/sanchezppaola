@@ -4,11 +4,16 @@
  
  Bom, vamos lá...
  
- Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software, e sou Javeira de coração 💚 (cuidado pra não falar mal de java perto de mim 😂, posso ser agressiva #sqn).
+ Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software, e sou Javeira de coração 💚 (cuidado pra não falar mal de java perto de mim 😂, posso utilizar as técnicas de judô que aprendi na aula experimental que fiz aos 5 anos de idade hahahah).
  
- Minha primeira graduação foi em Design de Produto pela Universidade Cesumar (Naquela época, lá em meados de 2010 eu sonhava em ser uma web designer)...
- Mas no decorrer dos anos esse sonho foi mudando e fiz outras graduações para ir me desenvolvendo na área tech, me formei também em Licenciatura de computação pelo Claretiano e também em Ciencias da Computação pela Etep
- Tenho algumas Pós Graduações também que me ajudaram a ir incrementando meu conhecimento, enquanto também incrementava meu curriculo. Por exemplo, tenho pós em Gestao de projetos de TI, Desenvolvimento de aplicações Web, Sistemas de informação, MBA em Engenharia de Software e em Banco de Dados...
+ Minha primeira graduação foi em Design de Produto pela Universidade Cesumar (Naquela época, lá em meados de 2010 eu sonhava em ser uma web designer).
+ 
+ Mas no decorrer dos anos esse sonho foi mudando e fiz outras graduações para ir me desenvolvendo na área tech, 
+ me formei também em Licenciatura de computação pelo Claretiano e também em Ciencias da Computação pela Etep
+ 
+ Tenho algumas Pós Graduações também que me ajudaram a ir incrementando meu conhecimento, enquanto 
+ também incrementava meu curriculo. Por exemplo, tenho pós em Gestao de projetos de TI, Desenvolvimento 
+ de aplicações Web, Sistemas de informação, MBA em Engenharia de Software e em Banco de Dados...
 Meus contatos estão abaixo:
 
   <div> 
