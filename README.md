@@ -1,8 +1,10 @@
 ## Olá! Eu sou a Paola
 
  Falaaa pessoal, afinal quem é a Paola, a Poá Dev do insta?
+ 
  Bom, vamos lá...
- Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software (mas sou Javeira de coração 💚, cuidado pra não falar mal de java perto de mim 😂, posso ser agrassiva #sqn).
+ 
+ Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software, e sou Javeira de coração 💚 (cuidado pra não falar mal de java perto de mim 😂, posso ser agressiva #sqn).
  
  Minha primeira graduação foi em Design de Produto pela Universidade Cesumar (Naquela época, lá em meados de 2010 eu sonhava em ser uma web designer)...
  Mas no decorrer dos anos esse sonho foi mudando e fiz outras graduações para ir me desenvolvendo na área tech, me formei também em Licenciatura de computação pelo Claretiano e também em Ciencias da Computação pela Etep
