@@ -24,9 +24,9 @@ Meus contatos estão abaixo:
   <a href = "mailto:paolasanchez.engsoftware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sanchezppaola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-##
-##
-##
+
+
+
 
 Quer fazer essa cobrinha que come os commits? Me chama no insta q te envio o tutorial...
 ![Snake animation](https://github.com/sanchezppaola/sanchezppaola/blob/output/github-contribution-grid-snake.svg)
