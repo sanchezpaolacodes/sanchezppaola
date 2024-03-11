@@ -23,7 +23,11 @@ Meus contatos estão abaixo:
   <a href="https://www.linkedin.com/in/sanchezppaola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
+
 **OBS: Esse GitHub é voltado para as minhas aulas, então ele deve ficar meio bagunçado**
+
+Quer fazer essa cobrinha que come os commits? Me chama no insta q te envio o tutorial.
+
     
 ![Snake animation](https://github.com/sanchezppaola/sanchezppaola/blob/output/github-contribution-grid-snake.svg)
   
