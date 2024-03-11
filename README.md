@@ -15,6 +15,8 @@
  também incrementava meu curriculo. Por exemplo, tenho pós em Gestao de projetos de TI, Desenvolvimento 
  de aplicações Web, Sistemas de informação, MBA em Engenharia de Software e em Banco de Dados...
 
+ **OBS: Esse GitHub é voltado para as minhas aulas e para os apoios aos devs iniciantes... Precisa de algum direcionamento sobre migração de carreira? Me chame no insta que te ajudo**
+
 Meus contatos estão abaixo:
 
   <div> 
@@ -24,7 +26,7 @@ Meus contatos estão abaixo:
 
 
 
-**OBS: Esse GitHub é voltado para as minhas aulas, então ele deve ficar meio bagunçado**
+
 
 Quer fazer essa cobrinha que come os commits? Me chama no insta q te envio o tutorial.
 
