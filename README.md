@@ -1,6 +1,6 @@
 ## Falaaa pessoal! Eu me chamo Paola
 
- Mas afinal quem é a Paola, a Poá Dev do insta?
+ Mas afinal quem é a Paola?
  
  Bom, vamos lá...
  
