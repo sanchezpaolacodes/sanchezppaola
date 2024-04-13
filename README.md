@@ -4,7 +4,7 @@
  
  Bom, vamos lá...
  
- Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software, e sou Javeira de coração 💚 (cuidado pra não falar mal de java perto de mim 😂, posso utilizar as técnicas de judô que aprendi na aula experimental que fiz aos 5 anos de idade hahahah).
+ Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software. Ahh, eu sou Javeira de coração 💚 (cuidado pra não falar mal de java perto de mim 😂, posso utilizar as técnicas de judô que aprendi na aula experimental que fiz aos 5 anos de idade).
  
  Minha primeira graduação foi em Design de Produto (Naquela época, lá em meados de 2010 eu sonhava em ser uma web designer).
  
