@@ -1,4 +1,4 @@
-## Falaaa pessoal! Eu me chamo Paola
+## Fala pessoal! Eu me chamo Paola
 
  GITHUB DESTINADO PARA AS MENTORIAS DO SABADÃO @PAOLA_CODES
  
