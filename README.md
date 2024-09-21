@@ -1,17 +1,17 @@
 ## Falaaa pessoal! Eu me chamo Paola
 
- Mas afinal quem é a Paola?
+ GITHUB DESTINADO PARA AS MENTORIAS DO SABADÃO @PAOLA_CODES
  
  Bom, vamos lá...
  
- Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software. Ahh, eu sou Javeira de coração 💚 (cuidado pra não falar mal de java perto de mim 😂, posso utilizar as técnicas de judô que aprendi na aula experimental que fiz aos 5 anos de idade).
+ Desde meu primeiro emprego estou na area de tecnologia e atualmente sou Arquiteta de software. Ahh, eu sou Javeira de coração 💚.
  
  Minha primeira graduação foi em Design de Produto (Naquela época, lá em meados de 2010 eu sonhava em ser uma web designer).
  
  Mas no decorrer dos anos esse sonho foi mudando e fiz outras graduações para ir me desenvolvendo na área tech, 
- me formei também em Licenciatura de computação pelo Claretiano e também em Ciencias da Computação pela Etep
+ me formei também em Licenciatura de computação, Engenharia de Software e estou terminando Ciencias da Computação
  
- Tenho algumas Pós Graduações também que me ajudaram a ir incrementando meu conhecimento, enquanto 
+ Tenho algumas Pós Graduações também que me ajudaram a ir aumentando meu conhecimento, enquanto 
  também incrementava meu curriculo. Por exemplo, tenho pós em Gestao de projetos de TI, Desenvolvimento 
  de aplicações Web, Sistemas de informação, MBA em Engenharia de Software e em Banco de Dados...
 
